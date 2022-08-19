@@ -1,0 +1,84 @@
+.card{
+  margin: 30px;
+  background-color: rgb(252, 252, 252);
+  height: 150px;
+  width: 300px;
+  box-shadow: 2px 2px 10px rgb(201, 201, 201);
+  border-radius: 20px;
+  text-align: start;
+  padding: 20px;
+  padding-top: 250px;
+  padding-left: 40px;
+  
+}
+
+
+#nav{
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  font-size: 18px;
+  color: white;
+  background-color: rgba(245, 13, 13, 0.61);
+}
+
+#nav ul{
+  margin-right: 80px;
+  color: white;
+ 
+}
+
+#nav ul li{
+  display: inline-block;
+  margin: 0px 30px; 
+  color: beige;
+  margin-top: 13px;}
+#btn{
+
+  background-color: rgba(231, 49, 49, 0.774);
+  border-radius: 7px;
+  height: 40px;
+  border: none;
+  box-shadow: none;
+  width: 100px;
+  font-size: 13px;
+  margin-left: -105px;
+  color: white;
+}
+
+
+
+#placeholder{
+  color: black;
+  box-shadow: 2px 2px 10px rgb(201, 201, 201);
+  border: none;
+  background-color: rgb(245, 245, 245);
+  width: 800px;
+  height: 50px;
+  border-radius: 5px;
+  font-size: 18px;
+  margin-left: 27%;
+  padding-left: 10px;
+}
+
+#home{
+  color: white;
+}
+
+#Superheros{
+  font-size: larger;
+  color: white;
+}
+
+
+#SuperHeros{
+  text-align: center;
+}
+
+#data{
+  margin: 3%;
+  font-size: larger;
+}
+
+
+
